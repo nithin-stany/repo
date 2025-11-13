@@ -1,1 +1,1 @@
-xx
+bulk modulud
